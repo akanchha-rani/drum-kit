@@ -75,3 +75,15 @@ drum-kit/
 3. **Animation Logic**
    - A CSS class is temporarily added to the pressed button
    - Removed after a short delay to create a press effect
+
+📈 Future Enhancements
+
+🎚️ Volume control slider
+
+🎼 Record and replay beats
+
+📱 Improved mobile UI
+
+🎨 Theme customization
+
+🎹 Add more instruments
