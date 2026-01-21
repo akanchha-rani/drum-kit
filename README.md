@@ -38,3 +38,11 @@ The layout adapts to different screen sizes and works on:
 - Desktop
 - Tablet
 - Mobile devices
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|----------|--------|
+| **HTML5** | Structure of the web page |
+| **CSS3** | Styling, layout, and animations |
+| **JavaScript** | Event handling, audio control, and logic |
