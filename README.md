@@ -54,15 +54,25 @@ The layout adapts to different screen sizes and works on:
 ## 📂 Project Structure
 
 drum-kit/
+
 │
+
 ├── index.html # Main HTML file
+
 ├── styles.css # Styling and animations
+
 ├── index.js # JavaScript logic
+
 ├── sounds/ # Drum sound audio files
+
 │ ├── crash.mp3
+
 │ ├── kick-bass.mp3
+
 │ ├── snare.mp3
+
 │ └── tom-*.mp3
+
 └── images/ # Button background images 
 
 
