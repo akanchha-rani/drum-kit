@@ -24,3 +24,6 @@ Each drum button is mapped to a unique sound such as:
 ### ⌨️ Keyboard Interaction
 - Users can play sounds using keyboard keys: W A S D J K L
 - Each key triggers a specific drum sound instantly.
+
+### 🖱️ Mouse Interaction
+Clicking on any drum button plays the corresponding sound.
