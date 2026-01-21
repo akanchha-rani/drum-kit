@@ -4,3 +4,10 @@ The **Drum Kit** is an interactive and responsive web application that allows us
 
 This project is ideal for beginners learning **JavaScript**, **HTML**, and **CSS**, and demonstrates real-time user interaction with audio playback.
 
+## 📌 Project Objectives
+
+- Understand **JavaScript event listeners**
+- Learn how to handle **keyboard and mouse events**
+- Work with **audio files in JavaScript**
+- Improve **UI feedback using animations**
+- Build an interactive front-end project
