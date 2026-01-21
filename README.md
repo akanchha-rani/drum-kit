@@ -67,3 +67,7 @@ drum-kit/
    - JavaScript listens for:
      - `click` events on buttons
      - `keydown` events from the keyboard
+
+2. **Sound Mapping**
+   - Each key/button corresponds to a specific audio file
+   - The correct sound is played using the `Audio()` object
