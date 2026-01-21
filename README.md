@@ -71,3 +71,7 @@ drum-kit/
 2. **Sound Mapping**
    - Each key/button corresponds to a specific audio file
    - The correct sound is played using the `Audio()` object
+
+3. **Animation Logic**
+   - A CSS class is temporarily added to the pressed button
+   - Removed after a short delay to create a press effect
