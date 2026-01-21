@@ -82,7 +82,7 @@ drum-kit/
    - Removed after a short delay to create a press effect
 
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 
 🎚️ Volume control slider
 
