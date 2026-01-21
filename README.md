@@ -4,6 +4,7 @@ The **Drum Kit** is an interactive and responsive web application that allows us
 
 This project is ideal for beginners learning **JavaScript**, **HTML**, and **CSS**, and demonstrates real-time user interaction with audio playback.
 
+
 ## 📌 Project Objectives
 
 - Understand **JavaScript event listeners**
@@ -11,6 +12,7 @@ This project is ideal for beginners learning **JavaScript**, **HTML**, and **CSS
 - Work with **audio files in JavaScript**
 - Improve **UI feedback using animations**
 - Build an interactive front-end project
+
 
 ## ✨ Features
 
@@ -39,6 +41,7 @@ The layout adapts to different screen sizes and works on:
 - Tablet
 - Mobile devices
 
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -46,6 +49,7 @@ The layout adapts to different screen sizes and works on:
 | **HTML5** | Structure of the web page |
 | **CSS3** | Styling, layout, and animations |
 | **JavaScript** | Event handling, audio control, and logic |
+
 
 ## 📂 Project Structure
 
@@ -61,6 +65,7 @@ drum-kit/
 │ └── tom-*.mp3
 └── images/ # Button background images 
 
+
 ## ⚙️ How It Works
 
 1. **Event Listeners**
@@ -75,6 +80,7 @@ drum-kit/
 3. **Animation Logic**
    - A CSS class is temporarily added to the pressed button
    - Removed after a short delay to create a press effect
+
 
 📈 Future Enhancements
 
