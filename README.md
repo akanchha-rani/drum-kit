@@ -32,3 +32,9 @@ Clicking on any drum button plays the corresponding sound.
 - Buttons animate briefly when pressed
 - Visual feedback improves user experience
 - Makes the application feel responsive and dynamic
+
+### 📱 Responsive Design
+The layout adapts to different screen sizes and works on:
+- Desktop
+- Tablet
+- Mobile devices
