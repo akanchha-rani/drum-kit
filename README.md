@@ -60,3 +60,10 @@ drum-kit/
 │ ├── snare.mp3
 │ └── tom-*.mp3
 └── images/ # Button background images 
+
+## ⚙️ How It Works
+
+1. **Event Listeners**
+   - JavaScript listens for:
+     - `click` events on buttons
+     - `keydown` events from the keyboard
