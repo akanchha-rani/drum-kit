@@ -20,3 +20,7 @@ Each drum button is mapped to a unique sound such as:
 - Kick
 - Crash
 - Tom drums
+
+### ⌨️ Keyboard Interaction
+- Users can play sounds using keyboard keys: W A S D J K L
+- Each key triggers a specific drum sound instantly.
