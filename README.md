@@ -27,3 +27,8 @@ Each drum button is mapped to a unique sound such as:
 
 ### 🖱️ Mouse Interaction
 Clicking on any drum button plays the corresponding sound.
+
+### 🎨 Button Animation
+- Buttons animate briefly when pressed
+- Visual feedback improves user experience
+- Makes the application feel responsive and dynamic
